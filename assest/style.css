@@ -87,7 +87,7 @@ font-size: 25px;
 color: white;
 text-decoration: none;
 }
-@media (max-width: 400px){
+@media (max-width: 60px){
 .nav ul{
     display: none;
 }
